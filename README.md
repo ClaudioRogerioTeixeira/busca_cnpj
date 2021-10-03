@@ -1,6 +1,3 @@
-# busca_cnpj
-Projeto Busca CNPJ
-
 # Projeto Busca CNPJ
 
 Construir um projeto que consuma a api.
