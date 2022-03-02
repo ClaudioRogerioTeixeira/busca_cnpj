@@ -1,6 +1,6 @@
 # Projeto Busca CNPJ
 
-Construir um projeto que consuma uma api.
+Projeto desenvolvido utilizando AJAX.
 
 ### Tecnologias:
 
