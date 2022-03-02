@@ -1,6 +1,6 @@
 # Projeto Busca CNPJ
 
-Construir um projeto que consuma a api.
+Construir um projeto que consuma uma api.
 
 ### Tecnologias:
 
