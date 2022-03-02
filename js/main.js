@@ -3,7 +3,7 @@ $("#botao").text("Consultar");
 function consultaCnpj() {
   $(".barraProgress").show();
   var cnpj = document.getElementById("cnpj").value;
-  var url = 'https://www.receitaws.com.br/v1/cnpj/' + cnpj.replace(/[^0-9]/g, '');
+  var url = '' + cnpj.replace(/[^0-9]/g, '');
   $.ajax({
     url: url,
     type: "GET",
